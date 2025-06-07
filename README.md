@@ -4,7 +4,7 @@
 
 *NAME*: SHAGANTI VIVEK GOUD
 
-*INTERN NO*: CT06DL136
+*INTERN NO*: CT06DL135
 
 *DOMAIN*: PYTHON PROGRAMMING
 
@@ -16,3 +16,5 @@
 
 ##OUTPUT:
 
+
+![Image](https://github.com/user-attachments/assets/57e7e87f-2da6-4c85-8144-285390fd1070)
